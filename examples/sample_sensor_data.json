@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2023-10-23T00:00:00",
+    "buzdolabi": 201.45,
+    "televizyon_oturma_odasi": 0.5,
+    "camasir_makinesi": 1.0,
+    "laptop_1": 45.32,
+    "lamba_dis": 0.0
+  },
+  {
+    "timestamp": "2023-10-23T00:01:00",
+    "buzdolabi": 48.32,
+    "televizyon_oturma_odasi": 0.5,
+    "camasir_makinesi": 1.0,
+    "laptop_1": 45.15,
+    "lamba_dis": 0.0
+  },
+  {
+    "timestamp": "2023-10-23T19:15:00",
+    "buzdolabi": 195.11,
+    "televizyon_oturma_odasi": 119.8,
+    "camasir_makinesi": 1502.75,
+    "laptop_1": 45.88,
+    "lamba_dis": 11.1
+  },
+  {
+    "timestamp": "2023-10-24T03:05:00",
+    "buzdolabi": 204.6, 
+    "televizyon_oturma_odasi": 0.5,
+    "camasir_makinesi": 1.0,
+    "laptop_1": 0.0,
+    "lamba_dis": 0.0
+  }
+]
