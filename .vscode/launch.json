@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/emrecetinkaya/Desktop/SmartPower-Logger/software/cli",
-      "program": "/Users/emrecetinkaya/Desktop/SmartPower-Logger/software/cli/build/Debug/outDebug"
+      "cwd": "/Users/emrecetinkaya/Desktop/SmartPower-Logger/software/verikatmani",
+      "program": "/Users/emrecetinkaya/Desktop/SmartPower-Logger/software/verikatmani/build/Debug/outDebug"
     }
   ]
 }
